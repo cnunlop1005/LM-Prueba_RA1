@@ -1,0 +1,107 @@
+
+{
+    "recetas":[
+        {
+			"nombre": "Sopa de cebolla",
+            "comensales": 4,
+            "descripcion": "Sopa tradicional francesa elaborada a base de cebolla caramelizada y caldo de carne, servida gratinada con pan y queso.",
+			"autor": "Chef Pierre Dupont",
+            "ingredientes":[
+				{
+					"nombre":"Cebolla",
+                    "cantidad": 1,
+                    "unidad": "kilogramos"
+				},
+				{
+					"nombre":"Caldo de carne",
+                    "cantidad": 2,
+                    "unidad": "litros"
+				},
+                {
+					"nombre":"Mantequilla",
+                    "cantidad": 100,
+                    "unidad": "gramos"
+				},
+                {
+					"nombre":"Harina",
+                    "cantidad": 1,
+                    "unidad": "cucharada"
+				},
+                {
+					"nombre":"Queso emmental suizo o gruyere rallado",
+                    "cantidad": 100,
+                    "unidad": "gramos"
+				},
+                {
+					"nombre":"Pan tostado en rebanadas",
+                    "cantidad": null,
+                    "unidad": null
+				},
+                {
+					"nombre":"Tomillo",
+                    "cantidad": null,
+                    "unidad": null
+				},
+                {
+					"nombre":"Laurel",
+                    "cantidad": 1,
+                    "unidad": "hoja"
+				},
+                {
+					"nombre":"Pimienta",
+                    "cantidad": null,
+                    "unidad": null
+				}   
+			],       
+            "proceso": [
+                {
+                    "paso": 1,
+                    "descripcion": "Pelar y partir las cebollas en rodajas finas."
+                },
+                 {
+                    "paso": 2,
+                    "descripcion": "Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que esten transparentes sin dorarse."
+                },
+                 {
+                    "paso": 3,
+                    "descripcion": "Añadir la harina sin dejar de remover."
+                },
+                 {
+                    "paso": 4,
+                    "descripcion": "Ponerlo en una cazuela con el caldo, el tomillo y el laurel."
+                },
+                 {
+                    "paso": 5,
+                    "descripcion": "Dejar cocer a fuego lento durante unos 15 minutos."
+                },
+                 {
+                    "paso": 6,
+                    "descripcion": "Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno."
+                }
+            ],
+            "informacion nutricional": [
+                {
+                    "nombre": "Energia",
+                    "cantidad":  250,
+                    "unidad": "kilocalorias"
+                },
+                 {
+                    "nombre": "Proteinas",
+                    "cantidad":  10,
+                    "unidad": "gramos"
+                },
+                 {
+                    "nombre": "Grasas",
+                    "cantidad":  12,
+                    "unidad": "gramos"
+                },
+                 {
+                    "nombre": "Hidratos",
+                    "cantidad":  20,
+                    "unidad": "gramos"
+                }
+            ]
+		}		
+    ]
+}
+    
